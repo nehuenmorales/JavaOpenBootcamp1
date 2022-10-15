@@ -1,4 +1,4 @@
-package com.example;
+package com.example.tipoDeDatos;
 
 public class TiposDatos {
     public static void main(String[] args) {
